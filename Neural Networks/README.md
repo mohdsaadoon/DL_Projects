@@ -1,5 +1,4 @@
-# DL_Projects
- In this collection, you will find a range of deep-learning projects and code examples. It covers areas such as image classification, natural language processing, and other learning applications. Each project is thorough. Neatly organized into folders. Please feel free to explore the code and utilize it as a resource for learning or as a foundation for your deep-learning endeavours.
+# Neural Networks
 
  - The [Kuzushiji_MNIST_NN](https://github.com/mohdsaadoon/DL_Projects/blob/main/Kuzushiji_MNIST_NN.ipynb) notebook provides an in-depth overview of Neural Networks using TensorFlow. In this notebook, we train Neural Networks on the fascinating Japanese MNIST dataset, Kuzushiji-MNIST. The dataset consists of 70,000 images of handwritten Hiragana characters, presenting a captivating challenge for character recognition.
 
